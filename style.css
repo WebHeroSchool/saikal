@@ -1,0 +1,18 @@
+div, h1 {
+    font-weight: bold; 
+}
+
+a, p, button {
+    font-family: Roboto;
+    font-style: normal;
+}
+
+div, h1 {
+    font-family: PT Serif;
+    font-style: normal;
+}
+
+button {
+    color: white;
+    background: #0056EC;
+}
